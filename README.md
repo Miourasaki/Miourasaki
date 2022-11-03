@@ -1,8 +1,6 @@
 ### Hi there 👋
-![lolilin's Github stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&bg_color=white&text_color=e688ac&title_color=f04888&icon_color=f04888&hide_border=1)
-
-![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=lolilin&show_icons=true&bg_color=DEG,ffd1fc,fad0c6&text_color=e688ac&title_color=f04888&icon_color=f04888&hide_border=1&coint_private=0&hide_title=1&show_icons=1)
-![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Asankilp&theme=buefy&hide=ren%27py%2chtml&layout=compact)
+![lolilin's Github stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&bg_color=white&text_color=e688ac&title_color=f04888&icon_color=f04888&hide_border=0)
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=lolilin&theme=buefy&hide=ren%27py%2chtml&layout=compact&hide_title=1)
 
 <--
 **lolilin/lolilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
