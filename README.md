@@ -6,13 +6,15 @@
 # Miololilin 白澪~
 
 [![Steam](https://img.shields.io/badge/白澪-black.svg?logo=Steam)](https://steamcommunity.com/profiles/lolilin/)
-[![Minecraft](https://img.shields.io/badge/Minecraft Java-lolilin-green.svg?labelColor=green&color=yellowgreen)](https://namemc.com/profile/lolilin)
+[![Minecraft](https://img.shields.io/badge/Minecraft Java-lolilin-green.svg?labelColor=green&color=yellowgreen)]
 
 
 ![lolilin's Github stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&bg_color=white&text_color=e688ac&title_color=f04888&icon_color=f048880)
 
 ![lolilin's Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolilin&layout=compact&hide_title=1)
-<--
+
+
+
 **lolilin/lolilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
