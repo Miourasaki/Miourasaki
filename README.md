@@ -6,7 +6,7 @@
 # Miololilin 白澪~
 
 [![Steam](https://img.shields.io/badge/白澪-black.svg?logo=Steam)](https://steamcommunity.com/profiles/lolilin/)
-[![Minecraft](https://img.shields.io/badge/MinecraftJava-lolilin-green.svg?labelColor=green&color=yellowgreen&logo=Block)](https://namemc.com/profile/lolilin)
+[![Minecraft](https://img.shields.io/badge/Minecraft-lolilin-green.svg?labelColor=green&color=yellowgreen&logo=Block)](https://namemc.com/profile/lolilin)
 
 
 ![lolilin's Github stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&bg_color=white&text_color=e688ac&title_color=f04888&icon_color=f048880)
