@@ -6,7 +6,7 @@
 # Akarin~
 ![lolilin's Github stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&bg_color=white&text_color=e688ac&title_color=f04888&icon_color=f04888)
 ![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=lolilin&theme=buefy&hide_title=1)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolilin&layout=compact)]
 <--
 **lolilin/lolilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
