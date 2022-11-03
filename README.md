@@ -4,7 +4,7 @@
 </a>
 
 # Miololilin 白澪~
-<div align=left>
+
 [![Steam](https://img.shields.io/badge/Asankilp-black.svg?logo=Steam)](https://steamcommunity.com/profiles/76561198341067758/)
   
 [![Minecraft](https://img.shields.io/badge/Minecraft Java-lolilin-green.svg?labelColor=green&color=yellowgreen)](https://namemc.com/profile/lolilin)
