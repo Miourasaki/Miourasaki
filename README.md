@@ -1,5 +1,5 @@
 ### Hi there 👋
-![lolilin's Github stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&bg_color=white&text_color=e688ac&title_color=f04888&icon_color=f04888&hide_border=0)
+![lolilin's Github stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&bg_color=white&text_color=e688ac&title_color=f04888&icon_color=f04888)
 ![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=lolilin&theme=buefy&hide=ren%27py%2chtml&layout=compact&hide_title=1)
 
 <--
