@@ -1,6 +1,6 @@
 
 <a href="github.com/lolilin">
-  <img align=right src="https://avatars.githubusercontent.com/u/108578489?s=96&v=4">  
+  <img style="border-radius: 10px;" align=right src="https://avatars.githubusercontent.com/u/108578489?s=96&v=4">  
 </a>
 
 # Akarin~
