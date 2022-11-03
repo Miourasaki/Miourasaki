@@ -1,8 +1,10 @@
 ### Hi there 👋
+![stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&theme=radical)
 ![stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&theme=buefy)
 ![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=lolilin&theme=buefy&hide=ren%27py%2chtml&layout=compact)
 
-<--**lolilin/lolilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--
+**lolilin/lolilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
