@@ -1,11 +1,11 @@
 
-<a href="[https://asankilp.github.io/akarin.html](https://avatars.githubusercontent.com/u/108578489?s=96&v=4)">
+<a href="avatars.githubusercontent.com/u/108578489?s=400&u=7fdc2a2a114fded2a9fe6138bf9a761db52fe818&v=4">
   <img align=right src="https://user-images.githubusercontent.com/60691961/179545384-80b45276-b410-48dd-9afa-954ef455d44f.png">  
 </a>
 
 # Akarin~
 ![lolilin's Github stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&bg_color=white&text_color=e688ac&title_color=f04888&icon_color=f04888)
-![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=lolilin&theme=buefy&hide=ren%27py%2chtml&layout=compact&hide_title=1)
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=lolilin&theme=buefy&hide_title=1)
 
 <--
 **lolilin/lolilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
