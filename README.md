@@ -1,7 +1,4 @@
 
-<a href="github.com/lolilin">
-  <img style="border-radius: 10px" align=right src="https://user-images.githubusercontent.com/60691961/179545384-80b45276-b410-48dd-9afa-954ef455d44f.png">  
-</a>
 
 # Miololilin 白澪~
 
