@@ -1,4 +1,6 @@
-![logo-lolilin.png](https://s2.loli.net/2022/10/31/Dgy7rkzscHjeXCB.png)
+<a href="https://asankilp.github.io/akarin.html">
+  <img align=right src="https://s2.loli.net/2022/06/25/vybdpLlemACPIoX.png">  
+</a>
 
 
 # Miololilin 白澪~
