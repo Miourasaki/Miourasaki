@@ -1,5 +1,5 @@
 <a href="https://asankilp.github.io/akarin.html">
-  <img align=right src="https://s2.loli.net/2022/06/25/vybdpLlemACPIoX.png">  
+  <img style="width: 100px" align=right src="https://s2.loli.net/2022/06/25/vybdpLlemACPIoX.png">  
 </a>
 
 
