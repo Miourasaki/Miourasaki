@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+![logo-lolilin.png](https://s2.loli.net/2022/10/31/Dgy7rkzscHjeXCB.png)
 
 
 # Miololilin 白澪~
