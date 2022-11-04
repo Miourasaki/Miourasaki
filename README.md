@@ -9,9 +9,9 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-lolilin-green.svg?labelColor=green&color=yellowgreen&logo=Block)](https://namemc.com/profile/lolilin)
 
 
-![lolilin's Github stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&bg_color=white&text_color=e688ac&title_color=f04888&icon_color=f048880&)
+![lolilin's Github stat](https://github-readme-stats.vercel.app/api?username=lolilin&show_icons=true&bg_color=white&text_color=e688ac&title_color=f04888&icon_color=f04888)
 
-![lolilin's Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolilin&layout=compact&hide_title=1&)
+![lolilin's Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolilin&layout=compact&hide_title=1)
 
 
 
