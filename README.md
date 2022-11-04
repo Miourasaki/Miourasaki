@@ -4,7 +4,8 @@
 
 
 # Miololilin 白澪~
-[![kook server](https://www.kookapp.cn/api/v3/badge/guild?guild_id=5824350863243274&style=3)](https://kaihei.co/JJE0Es)
+[![kook server](https://www.kookapp.cn/api/v3/badge/guild?guild_id=80405377&style=3)](https://kaihei.co/
+YcbZnm)
 [![Steam](https://img.shields.io/badge/白澪-black.svg?logo=Steam)](https://steamcommunity.com/profiles/id/lolilin/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Miololilin?style=social)](https://twitter.com/Miololilin)
 [![Minecraft](https://img.shields.io/badge/Minecraft-lolilin-green.svg?labelColor=green&color=yellowgreen&logo=Block)](https://namemc.com/profile/lolilin)
