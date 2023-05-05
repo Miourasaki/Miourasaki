@@ -1,5 +1,5 @@
 <a href="https://lolilin.com">
-  <img style="width: 160px" align=right src="https://s2.loli.net/2022/06/25/vybdpLlemACPIoX.png">  
+  <img style="width: 160px" align=right src="https://lolilin.com/favicon.svg">  
 </a>
 
 
