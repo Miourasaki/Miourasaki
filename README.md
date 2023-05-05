@@ -39,6 +39,10 @@
 <br>
 
 **Where to find me**
+[![kook server](https://www.kookapp.cn/api/v3/badge/guild?guild_id=5824350863243274&style=3)](https://kaihei.co/YcbZnm/)·
+[![Steam](https://img.shields.io/badge/白澪-black.svg?logo=Steam)](https://steamcommunity.com/profiles/id/lolilin/)·
+[![Twitter Follow](https://img.shields.io/twitter/follow/Miololilin?style=social)](https://twitter.com/Miololilin)·
+[![Minecraft](https://img.shields.io/badge/Minecraft-lolilin-green.svg?labelColor=green&color=yellowgreen&logo=Block)](https://namemc.com/profile/lolilin)
 
 [My WebSite](https://1oli.cn) ·
 [BiliBili](https://space.bilibili.com/94209973) ·
@@ -46,8 +50,5 @@
 [KOOK](https://kooktalk.top/16899324) ·
 [E-Mail](mailto:me@1oli.cn)
 
-[![kook server](https://www.kookapp.cn/api/v3/badge/guild?guild_id=5824350863243274&style=3)](https://kaihei.co/YcbZnm/)·
-[![Steam](https://img.shields.io/badge/白澪-black.svg?logo=Steam)](https://steamcommunity.com/profiles/id/lolilin/)·
-[![Twitter Follow](https://img.shields.io/twitter/follow/Miololilin?style=social)](https://twitter.com/Miololilin)·
-[![Minecraft](https://img.shields.io/badge/Minecraft-lolilin-green.svg?labelColor=green&color=yellowgreen&logo=Block)](https://namemc.com/profile/lolilin)
+
 
