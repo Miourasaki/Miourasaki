@@ -12,10 +12,10 @@
 <a href="https://1oli.cn#gh-dark-mode-only">
   <img src="https://cdn.skk.moe/img/profile-info/dark.png?#gh-dark-mode-only">
 </a> -->
+[![kook server](https://www.kookapp.cn/api/v3/badge/guild?guild_id=5824350863243274&style=3)](https://kaihei.co/YcbZnm/)
 
 <br>
 <br>
-[![kook server](https://www.kookapp.cn/api/v3/badge/guild?guild_id=5824350863243274&style=3)](https://kaihei.co/YcbZnm/)
 
 <!-- [![wakatime](https://wakatime.com/badge/user/5d907773-4bad-4681-802b-c2bec4583297.svg?style=flat-square)](https://wakatime.com/@5d907773-4bad-4681-802b-c2bec4583297) ![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fsukkaw&bgRight=000&bgLeft=000&border=square) -->
 
