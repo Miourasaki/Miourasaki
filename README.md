@@ -48,7 +48,7 @@
 [BiliBili](https://space.bilibili.com/94209973) ·
 [Twitter](https://twitter.com/Miololilin) ·
 [KOOK](https://kooktalk.top/16899324) ·
-[Steam](https://steamcommunity.com/profiles/id/lolilin/) ·
+[Steam](https://steamcommunity.com/id/lolilin/) ·
 [E-Mail](mailto:me@1oli.cn)
 
 
