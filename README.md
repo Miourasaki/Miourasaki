@@ -1,4 +1,4 @@
-<a href="https://lolilin.com">
+<a style="width:160px;border-radius:100%" href="https://lolilin.com">
   <img style="width:160px;border-radius:100%" align=right src="https://app.lolilin.com/static/img/herta.gif">  
 </a>
 
