@@ -1,9 +1,9 @@
-<a href="https://lolilin.com">
+<a href="https://mio.am">
   <img style="width:160px;border-radius:100%" align=right src="https://app.lolilin.com/static/img/herta.gif">  
 </a>
 
 
-# loliMioChyan 白澪~
+# MioChyan 白澪~
 
 
 <!-- <a href="https://1oli.cn#gh-light-mode-only">
