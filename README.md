@@ -1,5 +1,5 @@
 <a href="https://mio.am">
-  <img style="width:160px;border-radius:100%" align=right src="https://app.lolilin.com/static/img/herta.gif">  
+  <img style="width:160px;border-radius:100%" align=right src="https://github.com/favicon.ico">  
 </a>
 
 
