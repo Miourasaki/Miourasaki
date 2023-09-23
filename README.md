@@ -16,11 +16,6 @@
 ![My Website](https://img.shields.io/badge/-MioChyan's_Home-website?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktYXJjaGl2ZS1maWxsIiB2aWV3Qm94PSIwIDAgMTYgMTYiPgogIDxwYXRoIGQ9Ik0xMi42NDMgMTVDMTMuOTc5IDE1IDE1IDEzLjg0NSAxNSAxMi41VjVIMXY3LjVDMSAxMy44NDUgMi4wMjEgMTUgMy4zNTcgMTVoOS4yODZ6TTUuNSA3aDVhLjUuNSAwIDAgMSAwIDFoLTVhLjUuNSAwIDAgMSAwLTF6TS44IDFhLjguOCAwIDAgMC0uOC44VjNhLjguOCAwIDAgMCAuOC44aDE0LjRBLjguOCAwIDAgMCAxNiAzVjEuOGEuOC44IDAgMCAwLS44LS44SC44eiIgZmlsbD0iI2ZmZmZmZiIvPgo8L3N2Zz4%3D&logoColor=%23fff&labelColor=f04888&color=e688ac&link=https%3A%2F%2Fmio.am)
 [![wakatime](https://wakatime.com/badge/user/804838f1-d424-4483-8dd6-374c860dddb8.svg?style=flat-square)](https://wakatime.com/@804838f1-d424-4483-8dd6-374c860dddb8)
 
-<br>
-<br>
-
-<!-- [![wakatime](https://wakatime.com/badge/user/5d907773-4bad-4681-802b-c2bec4583297.svg?style=flat-square)](https://wakatime.com/@5d907773-4bad-4681-802b-c2bec4583297) ![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fsukkaw&bgRight=000&bgLeft=000&border=square) -->
-
 > A  <span style='color:black;background:#000'>Unknow</span> who doesn't know how to introduce herself
 
 <a href="https://github.com/lolilin#gh-light-mode-only">
