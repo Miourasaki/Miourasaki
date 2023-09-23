@@ -13,7 +13,7 @@
   <img src="https://cdn.skk.moe/img/profile-info/dark.png?#gh-dark-mode-only">
 </a> -->
 <!-- [![kook server](https://www.kookapp.cn/api/v3/badge/guild?guild_id=5824350863243274&style=3)](https://kaihei.co/YcbZnm/) -->
-[![wakatime](https://wakatime.com/badge/user/804838f1-d424-4483-8dd6-374c860dddb8.svg)](https://wakatime.com/@804838f1-d424-4483-8dd6-374c860dddb8)
+[![wakatime](https://wakatime.com/badge/user/804838f1-d424-4483-8dd6-374c860dddb8.svg?style=flat-square)](https://wakatime.com/@804838f1-d424-4483-8dd6-374c860dddb8)
 
 <br>
 <br>
