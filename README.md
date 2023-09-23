@@ -12,7 +12,8 @@
 <a href="https://1oli.cn#gh-dark-mode-only">
   <img src="https://cdn.skk.moe/img/profile-info/dark.png?#gh-dark-mode-only">
 </a> -->
-[![kook server](https://www.kookapp.cn/api/v3/badge/guild?guild_id=5824350863243274&style=3)](https://kaihei.co/YcbZnm/)
+<!-- [![kook server](https://www.kookapp.cn/api/v3/badge/guild?guild_id=5824350863243274&style=3)](https://kaihei.co/YcbZnm/) -->
+[![wakatime](https://wakatime.com/badge/user/804838f1-d424-4483-8dd6-374c860dddb8.svg)](https://wakatime.com/@804838f1-d424-4483-8dd6-374c860dddb8)
 
 <br>
 <br>
