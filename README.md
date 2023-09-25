@@ -1,6 +1,8 @@
-<a href="https://mio.am">
+
+
+<!-- <a href="https://mio.am">
   <img style="width:160px;border-radius:100%" align=right src="https://mio.am/favicon.ico">  
-</a>
+</a> -->
 
 
 # MioChyan 白澪~
