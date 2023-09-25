@@ -1,8 +1,6 @@
-
-
-<!-- <a href="https://mio.am">
+<a href="https://mio.am">
   <img style="width:160px;border-radius:100%" align=right src="https://mio.am/favicon.ico">  
-</a> -->
+</a>
 
 
 # MioChyan 白澪~
@@ -20,11 +18,11 @@
 
 > A  <span style='color:black;background:#000'>Unknow</span> who doesn't know how to introduce herself
 
-<a href="https://github.com/lolilin#gh-light-mode-only">
+<a href="https://github.com/linChyan#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=linChyan&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f&include_all_commits=true&hide_title=true&count_private=true#gh-light-mode-only" align="right" alt="My GitHub Stats" />
 </a>
 
-<a href="https://github.com/lolilin#gh-dark-mode-only">
+<a href="https://github.com/linChyan#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=linChyan&show_icons=true&hide_border=true&icon_color=60696f&title_color=e688ac&include_all_commits=true&hide_title=true&bg_color=1f2228&text_color=e688ac&count_private=true#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
 </a>
 
