@@ -3,7 +3,7 @@
 </a>
 
 
-# MioChyan 白澪~
+# Miourasaki 白澪·卡丝蕾特
 
 
 <!-- <a href="https://1oli.cn#gh-light-mode-only">
@@ -18,12 +18,12 @@
 
 > A  <span style='color:black;background:#000'>Unknow</span> who doesn't know how to introduce herself
 
-<a href="https://github.com/linChyan#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=linChyan&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f&include_all_commits=true&hide_title=true&count_private=true#gh-light-mode-only" align="right" alt="My GitHub Stats" />
+<a href="https://github.com/Miourasaki#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=Miourasaki&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f&include_all_commits=true&hide_title=true&count_private=true#gh-light-mode-only" align="right" alt="My GitHub Stats" />
 </a>
 
-<a href="https://github.com/linChyan#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=linChyan&show_icons=true&hide_border=true&icon_color=60696f&title_color=e688ac&include_all_commits=true&hide_title=true&bg_color=1f2228&text_color=e688ac&count_private=true#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
+<a href="https://github.com/Miourasaki#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=Miourasaki&show_icons=true&hide_border=true&icon_color=60696f&title_color=e688ac&include_all_commits=true&hide_title=true&bg_color=1f2228&text_color=e688ac&count_private=true#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
 </a>
 
 **I am a...**
@@ -43,11 +43,11 @@
 
 [My WebSite](https://1oli.cn) ·
 [BiliBili](https://space.bilibili.com/94209973) ·
-[Twitter](https://twitter.com/Miololilin) ·
+[Twitter](https://twitter.com/Miourasaki) ·
 [KOOK](https://kooktalk.top/16899324) ·
-[Steam](https://steamcommunity.com/id/lolilin/) ·
-[E-Mail](mailto:me@1oli.cn)
+[Steam](https://steamcommunity.com/id/Miourasaki/) ·
+[E-Mail](mailto:mio@chyan.moe)
 
 
 
-![](https://raw.githubusercontent.com/linChyan/linChyan/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/github-contribution-grid-snake.svg)
