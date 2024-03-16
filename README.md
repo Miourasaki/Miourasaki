@@ -1,6 +1,6 @@
-<a href="https://mio.am">
+<!-- <a href="https://mio.am">
   <img style="width:160px;border-radius:100%" align=right src="https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/avatar.png">  
-</a>
+</a> -->
 
 
 # Miourasaki 白澪·卡丝蕾特
