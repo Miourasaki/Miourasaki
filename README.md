@@ -1,5 +1,5 @@
 <a href="https://mio.am">
-  <img style="width:160px;border-radius:100%" align=right src="https://mio.am/favicon.ico">  
+  <img style="width:160px;border-radius:100%" align=right src="https://cdn.lolis.fyi/gravatar/a4cd208dc18e91177ea4cb94bf4ff32e?s=160&d=404">  
 </a>
 
 
