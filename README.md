@@ -1,5 +1,5 @@
 <a href="https://mio.am">
-  <img style="width:160px;border-radius:100%" align=right src="https://cdn.lolis.fyi/gravatar/a4cd208dc18e91177ea4cb94bf4ff32e?s=160&d=404">  
+  <img style="width:160px;border-radius:100%" align=right src="https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/avatar.png">  
 </a>
 
 
@@ -50,4 +50,5 @@
 
 
 
-![](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
