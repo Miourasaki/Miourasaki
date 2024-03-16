@@ -6,10 +6,10 @@
 # Miourasaki 白澪·卡丝蕾特
 
 
-<!-- <a href="https://1oli.cn#gh-light-mode-only">
+<!-- <a href="https://mio.am">
   <img src="https://cdn.skk.moe/img/profile-info/light.png?#gh-light-mode-only">
 </a>
-<a href="https://1oli.cn#gh-dark-mode-only">
+<a href="https://mio.am">
   <img src="https://cdn.skk.moe/img/profile-info/dark.png?#gh-dark-mode-only">
 </a> -->
 <!-- [![kook server](https://www.kookapp.cn/api/v3/badge/guild?guild_id=5824350863243274&style=3)](https://kaihei.co/YcbZnm/) -->
