@@ -41,7 +41,7 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Miololilin?style=social)](https://twitter.com/Miololilin)· -->
 <!-- [![Minecraft](https://img.shields.io/badge/Minecraft-lolilin-green.svg?labelColor=green&color=yellowgreen&logo=Block)](https://namemc.com/profile/lolilin) -->
 
-[My WebSite](https://1oli.cn) ·
+[My WebSite](https://mio.am) ·
 [BiliBili](https://space.bilibili.com/94209973) ·
 [Twitter](https://twitter.com/Miourasaki) ·
 [KOOK](https://kooktalk.top/16899324) ·
