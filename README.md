@@ -49,6 +49,6 @@
 [E-Mail](mailto:mio@chyan.moe)
 
 
-
-![](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://ghchart.rshah.org/409ba5/Miourasaki)
+<!-- ![](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
