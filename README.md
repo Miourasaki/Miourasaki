@@ -3,6 +3,7 @@
 </a> -->
 
 
+
 # Miourasaki 白澪·卡丝蕾特
 
 
@@ -51,7 +52,10 @@
 [Steam](https://steamcommunity.com/id/Miourasaki/) ·
 [E-Mail](mailto:mio@chyan.moe)
 
-<img src="https://ghchart.rshah.org/409ba5/Miourasaki"  width="97%" />
-<!-- ![](https://ghchart.rshah.org/409ba5/Miourasaki) -->
+
+<br>
+<img src="https://ghchart.rshah.org/409ba5/Miourasaki"  width="96.5%" />
+<!-- ![](https://ghchart.rshah.org/409ba5/Miourasaki)
+
 ![](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
