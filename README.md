@@ -19,7 +19,7 @@
 [![Miourasaki's Index](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/miourasaki-index-brage.svg)](https://mio.am)
 [![wakatime](https://wakatime.com/badge/user/804838f1-d424-4483-8dd6-374c860dddb8.svg?style=flat-square)](https://wakatime.com/@804838f1-d424-4483-8dd6-374c860dddb8)
 
-> A  <span style='color:black;background:#000'>Unknow</span> who doesn't know how to introduce herself
+> A  **Unknow** who doesn't know how to introduce herself
 
 <a href="https://github.com/Miourasaki#gh-light-mode-only">
   <img src="https://miourasaki-readme-stats.vercel.app/api?username=Miourasaki&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f&include_all_commits=true&hide_title=true&count_private=true#gh-light-mode-only" align="right" alt="My GitHub Stats" />
