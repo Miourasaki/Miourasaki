@@ -7,15 +7,6 @@
 # 𝕸𝖎𝖔𝖚𝖗𝖆𝖘𝖆𝖐𝖎 白澪·卡丝蕾特
 
 
-<!-- <a href="https://mio.am">
-  <img src="https://cdn.skk.moe/img/profile-info/light.png?#gh-light-mode-only">
-</a>
-<a href="https://mio.am">
-  <img src="https://cdn.skk.moe/img/profile-info/dark.png?#gh-dark-mode-only">
-</a> -->
-<!-- [![kook server](https://www.kookapp.cn/api/v3/badge/guild?guild_id=5824350863243274&style=3)](https://kaihei.co/YcbZnm/)
-[![My Website](https://img.shields.io/badge/-Miourasaki's_空澪之境-website?style=flat-square&logo=&logoColor=%23fff&labelColor=f04888&color=e688ac&link=https%3A%2F%2Fmio.am)](https://mio.am)
--->
 [![Miourasaki's Index](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/miourasaki-index-brage.svg)](https://mio.am)
 [![wakatime](https://wakatime.com/badge/user/804838f1-d424-4483-8dd6-374c860dddb8.svg?style=flat-square)](https://wakatime.com/@804838f1-d424-4483-8dd6-374c860dddb8)
 
