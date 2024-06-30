@@ -7,7 +7,7 @@
 # 𝕸𝖎𝖔𝖚𝖗𝖆𝖘𝖆𝖐𝖎 白澪·卡丝蕾特
 
 
-[![Miourasaki's Index](https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/miourasaki-index-brage.svg)](https://mio.am)
+[![Miourasaki's Index](https://cdn.jsdelivr.net/gh/Miourasaki/Miourasaki@master/assets/miourasaki-index-brage.svg)](https://mio.am)
 [![wakatime](https://wakatime.com/badge/user/804838f1-d424-4483-8dd6-374c860dddb8.svg?style=flat-square)](https://wakatime.com/@804838f1-d424-4483-8dd6-374c860dddb8)
 
 > A  **Unknow** who doesn't know how to introduce herself
