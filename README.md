@@ -20,8 +20,9 @@
   <img src="https://miourasaki-readme-stats.vercel.app/api?username=Miourasaki&show_icons=true&hide_border=true&icon_color=60696f&title_color=e688ac&include_all_commits=true&hide_title=true&bg_color=1f2228&text_color=e688ac&count_private=true#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
 </a>
 
-**I am a...**
+**i About...**
 
+- I'm learning to draw and compose.
 - [@MioSeiYa](https://mioseiya.com/) core team member
 -   *United Imperial of Mio* Citizen.
 <!-- - [RSSHub](https://github.com/diygod/rsshub) collaborator
