@@ -9,8 +9,10 @@
 "ScaredCube’s Site":
   url: https://sccube.link/
   text: "Hello World!"
-  avatar: https://s.scc.lol/avatar-s
+  origin_avatar: https://s.scc.lol/avatar-s
+  avatar: https://repo.mio.am/soul-firend/ScaredCube.avif
 "Lazy's Blog":
   url: https://blog.imlazy.ink:233/
   text: "Share somethings with you"
-  avatar: https://q1.qlogo.cn/g?b=qq&nk=2211717435&s=640
+  origin_avatar: https://q1.qlogo.cn/g?b=qq&nk=2211717435&s=640
+  avatar: https://repo.mio.am/soul-firend/Lazy.avif
