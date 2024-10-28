@@ -6,6 +6,11 @@
 #   banner: https://mio.am/assets/Gensokyo/img/769730.jpg
 #=============================================================================================
 
+"SkyHigh的小站":
+  url: https://skyhigh.moe/
+  text: "七十亿分之一的普通人... "
+  origin_avatar: https://pbs.twimg.com/profile_images/1729307662805016576/9CFdUVOL_400x400.jpg
+  avatar: https://repo.mio.am/soul-firend/avatars/SkyHigh.avif
 "ScaredCube’s Site":
   url: https://sccube.link/
   text: "Hello World!"
