@@ -10,14 +10,14 @@
   url: https://skyhigh.moe/
   text: "七十亿分之一的普通人... "
   origin_avatar: https://pbs.twimg.com/profile_images/1729307662805016576/9CFdUVOL_400x400.jpg
-  avatar: https://repo.mio.am/soul-firend/avatars/SkyHigh.avif
+  avatar: avatars/SkyHigh.avif
 "ScaredCube’s Site":
   url: https://sccube.link/
   text: "Hello World!"
   origin_avatar: https://s.scc.lol/avatar-s
-  avatar: https://repo.mio.am/soul-firend/avatars/ScaredCube.avif
+  avatar: avatars/ScaredCube.avif
 "Lazy's Blog":
   url: https://blog.imlazy.ink:233/
   text: "Share somethings with you"
   origin_avatar: https://q1.qlogo.cn/g?b=qq&nk=2211717435&s=640
-  avatar: https://repo.mio.am/soul-firend/avatars/Lazy.avif
+  avatar: avatars/Lazy.avif
