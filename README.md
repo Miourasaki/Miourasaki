@@ -46,8 +46,8 @@
 
 
 <br>
-<img src="https://ghchart.rshah.org/409ba5/RinnTaya"  width="96.5%" />
-<!-- ![](https://ghchart.rshah.org/409ba5/RinnTaya)
+<!-- <img src="https://ghchart.rshah.org/409ba5/RinnTaya"  width="96.5%" />
+![](https://ghchart.rshah.org/409ba5/RinnTaya) -->
 
 ![](https://raw.githubusercontent.com/RinnTaya/RinnTaya/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/RinnTaya/RinnTaya/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
+![](https://raw.githubusercontent.com/RinnTaya/RinnTaya/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
